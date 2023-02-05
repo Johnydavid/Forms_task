@@ -247,7 +247,7 @@ const tableDiv = document.createElement("div");
 tableDiv.id = "tableDiv";
 tableDiv.className = "container-md container-sm";
 
-tableDiv.style.marginLeft = "200px";
+tableDiv.style.marginLeft = "100px";
 
 document.body.append(tableDiv);
 
